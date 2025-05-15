@@ -3,4 +3,4 @@ This is a *very* slight configuration change to the [gruvbox-rainbow theme](http
 
 Follow the instructions with the links above to install starship and the gruvbox-rainbow preset, then overwrite the file in "~/.config/starship.toml" with the contents of this file and enjoy.
 
-![starship-shell-prompt.png]("starship-shell-prompt.png")
+![starship-shell-prompt.png](starship-shell-prompt.png)
